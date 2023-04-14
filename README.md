@@ -5,8 +5,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Github Repo](https://your-solution-url.com)
-- Live Site URL: [Desktop Live](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/ujjwaluzu/Results-Summary-Component)
+- Live Site URL: [Desktop Live](https://ujjwaluzu.github.io/Results-Summary-Component/)
 
 
 ### Built with
@@ -19,6 +19,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ## Author
 
-- Website - [Ujjwal](https://www.your-site.com)
+- Website - [Ujjwal]()
 - Frontend Mentor - [@ujjwaluzu](https://www.frontendmentor.io/profile/ujjwaluzu)
 - Twitter - [@ujjwal](https://www.twitter.com/Ujjwaluzu)
